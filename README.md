@@ -6,7 +6,7 @@ It has the train and test modules. You can train and then test your model respec
 
 Up until now
 -
-<B>-The training part will give you the training accuracy and loss of both training and test dataset.</B>
+<B>-The training part will give you the training accuracy and loss of both training and val dataset.</B>
 
 <B>-The Test part will give you the Test accuracy and loss of the test set. In addition you can visualize the model prediction errors.</B>
 
